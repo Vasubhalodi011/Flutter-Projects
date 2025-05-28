@@ -49,7 +49,7 @@ A list of fruits styled with individual colors and emojis:
 All items are aligned centrally on the screen with bold, custom-colored text.
 
 ---
-  <img src="https://github.com/user-attachments/assets/a8ab51d3-ddb0-4ba6-b83b-55ae2a5398da" width="22%">
+  <img src="https://github.com/user-attachments/assets/4de98107-333d-49e1-83d3-a886568c3be5" width="22%">
 
 ## 📦 Code Snippet
 
