@@ -38,7 +38,7 @@ Each word/letter is styled with different sizes and colors, centered in the app 
 - **RichText & TextSpan**: For custom styled multi-part text.
 
 ---
-  <img src="https://github.com/user-attachments/assets/82951d22-50ba-428a-a380-09a480b84a2a" width="22%">
+  <img src="https://github.com/user-attachments/assets/423e9255-6403-4512-88bd-88edd1c4d68d" width="22%">
 
 
 ## 🧑‍💻 Code – `main.dart`
@@ -59,8 +59,7 @@ void main() {
               "Red & White",
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 35,![WhatsApp Image 2025-05-28 at 16 44 23_a3866770](https://github.com/user-attachments/assets/423e9255-6403-4512-88bd-88edd1c4d68d)
-![WhatsApp Image 2025-05-28 at 16 44 23_1969dce8](https://github.com/user-attachments/assets/eb64f595-2f49-40a5-83bf-4e9ee0c6ea9f)
+                fontSize: 35,
 
                 fontWeight: FontWeight.bold,
               ),
